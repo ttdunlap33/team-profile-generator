@@ -2,11 +2,7 @@
 
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/licenses/unlicense/)
   
-  ## Demo
-
-![Gif](https://github.com/ttdunlap33/team-profile-generator/blob/main/images/teamprofilegenerator.gif)
-
-  ## Table of Contents
+## Table of Contents
   
   [Description](#description)  
   [Installation](#installation)
@@ -19,6 +15,10 @@
   ## Description
   
   Using object-oriented programming to create a team page. 
+
+## Demo
+
+![Gif](https://github.com/ttdunlap33/team-profile-generator/blob/main/images/teamprofilegenerator.gif)
 
   ## Installation
   
