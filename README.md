@@ -18,7 +18,7 @@
 
 ## Demo
 
-![Gif](https://github.com/ttdunlap33/team-profile-generator/blob/main/images/teamprofilegenerator.gif)
+![Gif](https://github.com/ttdunlap33/team-profile-generator/blob/main/gif/teamprofilegenerator.gif)
 
   ## Installation
   
